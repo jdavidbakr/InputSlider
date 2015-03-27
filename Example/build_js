@@ -1,0 +1,2 @@
+/usr/local/bin/packager/packager build InputSlider/InputSlider Core/DomReady > js.js
+cat functions.js >> js.js

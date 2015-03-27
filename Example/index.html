@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HiddenSubform Example</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="js.js"></script>
+        <style>
+            .slider {
+                width: 150px;
+                height: 30px;
+                margin: 10px auto;
+                background: gray;
+            }
+            .slider_knob {
+                width: 10px;
+                height: 30px;
+                background: red;
+                cursor: pointer;
+            }
+            .value {
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <input class="input_slider" rel="{'currency':true,'range':[0,100],'value_class':'value','colorize100':true}" value="50">
+    </body>
+</html>

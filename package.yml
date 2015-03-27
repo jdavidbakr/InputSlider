@@ -1,0 +1,12 @@
+name: "InputSlider"
+
+description: "Replaces input elements with a slider to choose the value within a range"
+
+author: jdavidbakr
+
+category: Interface
+
+tags: [form]
+
+sources:
+  - "Source/InputSlider.js"
