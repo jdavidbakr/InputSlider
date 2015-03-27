@@ -13,6 +13,7 @@ How to use
 Pass the input element to the class and it will take care of the rest.
 
 You must add a json string to the "rel" tag with the following keys:
+
 * currency: **Optional** - If this exists, the text will display as currency
 * percent: **Optional** - If this exists, the text will display as a percent
 * range: **Required** - This should contain an array for the range (minimum/maximum)
