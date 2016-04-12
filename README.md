@@ -1,5 +1,5 @@
-HiddenSubform
-=============
+InputSlider
+===========
 
 ![Screenshot](https://s3.amazonaws.com/catalyst-public/MooTools-Screenshots/InputSlider.jpg)
 
